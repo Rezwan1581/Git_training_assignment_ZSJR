@@ -44,14 +44,15 @@ body {
     background: lightblue;
 }
 
-#Shadin {
-    top: 50%;
-    left: 50%;
-    background: red;
-}
 
 #Abdullah_Al_Zabir {
     top: 50%;
     left: 0;
     background: green;
+}
+
+#Shadin {
+    top: 50%;
+    left: 50%;
+    background: red;
 }
