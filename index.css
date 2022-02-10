@@ -32,17 +32,24 @@ body {
 
 /* centers text */
 
-#NW {
+#Rezwan {
     top: 0;
     left: 0;
     background: orange;
 }
 
-#NE {
+#Jamy {
     top: 0;
     left: 50%;
     background: lightblue;
 }
+
+#Shadin {
+    top: 0;
+    left: 50%;
+    background: purple;
+}
+
 
 #SW {
     top: 50%;
