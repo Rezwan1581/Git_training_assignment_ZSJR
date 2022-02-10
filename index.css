@@ -38,20 +38,21 @@ body {
     background: orange;
 }
 
-#Jamy {
+#Hasanath_Jamy {
     top: 0;
     left: 50%;
     background: lightblue;
+}
+
+
+#Abdullah_Al_Zabir {
+    top: 50%;
+    left: 0;
+    background: green;
 }
 
 #Shadin {
     top: 50%;
     left: 50%;
     background: red;
-}
-
-#Abdullah_Al_Zabir {
-    top: 50%;
-    left: 0;
-    background: green;
 }
