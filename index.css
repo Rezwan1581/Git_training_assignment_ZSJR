@@ -44,11 +44,6 @@ body {
     background: lightblue;
 }
 
-#Shadin {
-    top: 0;
-    left: 50%;
-    background: purple;
-}
 
 
 #SW {
@@ -57,7 +52,7 @@ body {
     background: green;
 }
 
-#SE {
+#Shadin {
     top: 50%;
     left: 50%;
     background: red;
