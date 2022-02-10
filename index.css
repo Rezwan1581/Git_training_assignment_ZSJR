@@ -47,7 +47,14 @@ body {
 
 
 #Shadin {
+
+        top: 50%;
+        left: 50%;
+        background: red;
+    }
+#Abdullah_Al_Zabir {
     top: 50%;
-    left: 50%;
-    background: red;
+    left: 0;
+    background: green;
 }
+
